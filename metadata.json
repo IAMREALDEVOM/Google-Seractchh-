@@ -1,0 +1,8 @@
+{
+  "name": "RVR Search",
+  "description": "A smart, AI-powered search engine grounded in real-time web data.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
